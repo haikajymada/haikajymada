@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @haikajymada from Madagascar
-- 👀 I’m looking for partners who want to outsouce their projects
+- 👀 I’m passionate about digital transformation
+- I run Design Sprint workshops for businesses
 
 <!---
 haikajymada/haikajymada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
